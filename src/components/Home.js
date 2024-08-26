@@ -21,7 +21,7 @@ return (
         </div>
         <div className="avatar">
             <div className="card">
-                <img src="/avatar.png" alt="" />
+                <img src="./public/avatar.png" alt="" />
             </div>
         </div>
     </section>
