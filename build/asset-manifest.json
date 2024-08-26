@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faiz-portfolio/static/css/main.f5b6c2a6.css",
+    "main.js": "/faiz-portfolio/static/js/main.22bf367b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/faiz-portfolio/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/faiz-portfolio/index.html",
+    "main.f5b6c2a6.css.map": "/faiz-portfolio/static/css/main.f5b6c2a6.css.map",
+    "main.22bf367b.js.map": "/faiz-portfolio/static/js/main.22bf367b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/faiz-portfolio/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b6c2a6.css",
+    "static/js/main.22bf367b.js"
+  ]
+}
